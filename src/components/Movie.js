@@ -1,9 +1,9 @@
-const Movies = () => {
+const Movie = () => {
     return(
         <>
 
             <div className="text-center">
-                <h2>Movies</h2>
+                <h2>Movie</h2>
                 <hr />
             </div>
 
@@ -11,4 +11,4 @@ const Movies = () => {
     )
 }
 
-export default Movies;
+export default Movie;

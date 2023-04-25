@@ -1,9 +1,9 @@
-const Movies = () => {
+const Genres = () => {
     return(
         <>
 
             <div className="text-center">
-                <h2>Movies</h2>
+                <h2>Genres</h2>
                 <hr />
             </div>
 
@@ -11,4 +11,4 @@ const Movies = () => {
     )
 }
 
-export default Movies;
+export default Genres;
